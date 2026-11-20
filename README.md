@@ -1,4 +1,6 @@
-# Ex.No:5 Develop a simple calculator using android studio.
+# EXPERIMENT 5 : DEVELOP A SIMPLE CALCULATOR USING ANDROID STUDIO :
+## NAME : RUSHMITHA R
+## REGISTRATION NUMBER : 212224040281
 
 ## AIM:
 
@@ -315,3 +317,13 @@ activity_main.xml
 
 </LinearLayout>
 ```
+## OUTPUT :
+<img width="1905" height="1052" alt="Screenshot 2026-11-19 140142" src="https://github.com/user-attachments/assets/659222fd-2906-4db9-9533-895b761a17c2" />
+
+
+<img width="1917" height="1100" alt="Screenshot 2026-11-19 140159" src="https://github.com/user-attachments/assets/24105a3c-9083-46bc-843b-ce2c93f0d2a8" />
+
+## RESULT
+Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
+
+
